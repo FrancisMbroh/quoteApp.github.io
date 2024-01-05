@@ -1,2 +1,2 @@
 ## Overview
-I created this quote app to facility my regular 1week1quote practice on twitter(X).
+I created this quote app to facilitate my regular 1week1quote post on twitter(X).
